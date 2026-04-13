@@ -1,1 +1,8 @@
-
+{
+  "id": "test-plugin",
+  "name": "Test Plugin",
+  "version": "1.0.0",
+  "minAppVersion": "0.0.1",
+  "description": "Test plugin for Phase 6",
+  "author": "Test"
+}
